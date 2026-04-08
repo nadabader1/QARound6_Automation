@@ -21,6 +21,6 @@ describe("Demo page", () => {
       cy.get("#mobile")
       cy.get("[alt=Google-play-icon]")
       cy.get(".TK-Footer-Social-Link").first().children()
-    //   nadabader
+    
     })
 })

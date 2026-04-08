@@ -10,6 +10,7 @@ module.exports = defineConfig({
     baseUrl:"https://www.saucedemo.com/" ,
     // watchForFileChanges:false,
      baseUrl:"https://www.telerik.com/support/demos",
+     baseUrl:"https://demowebshop.tricentis.com/register",
     // viewportWidth:440,
     // viewportHeight:400,
   },
